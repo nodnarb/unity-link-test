@@ -1,1 +1,1 @@
-// soft linked also
+// hard linked
